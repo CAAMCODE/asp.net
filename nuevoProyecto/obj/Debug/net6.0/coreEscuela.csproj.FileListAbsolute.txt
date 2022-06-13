@@ -1,0 +1,15 @@
+D:\Desktop\ASPNET\nuevoProyecto\bin\Debug\net6.0\coreEscuela.exe
+D:\Desktop\ASPNET\nuevoProyecto\bin\Debug\net6.0\coreEscuela.deps.json
+D:\Desktop\ASPNET\nuevoProyecto\bin\Debug\net6.0\coreEscuela.runtimeconfig.json
+D:\Desktop\ASPNET\nuevoProyecto\bin\Debug\net6.0\coreEscuela.dll
+D:\Desktop\ASPNET\nuevoProyecto\bin\Debug\net6.0\coreEscuela.pdb
+D:\Desktop\ASPNET\nuevoProyecto\obj\Debug\net6.0\coreEscuela.csproj.AssemblyReference.cache
+D:\Desktop\ASPNET\nuevoProyecto\obj\Debug\net6.0\coreEscuela.GeneratedMSBuildEditorConfig.editorconfig
+D:\Desktop\ASPNET\nuevoProyecto\obj\Debug\net6.0\coreEscuela.AssemblyInfoInputs.cache
+D:\Desktop\ASPNET\nuevoProyecto\obj\Debug\net6.0\coreEscuela.AssemblyInfo.cs
+D:\Desktop\ASPNET\nuevoProyecto\obj\Debug\net6.0\coreEscuela.csproj.CoreCompileInputs.cache
+D:\Desktop\ASPNET\nuevoProyecto\obj\Debug\net6.0\coreEscuela.dll
+D:\Desktop\ASPNET\nuevoProyecto\obj\Debug\net6.0\refint\coreEscuela.dll
+D:\Desktop\ASPNET\nuevoProyecto\obj\Debug\net6.0\coreEscuela.pdb
+D:\Desktop\ASPNET\nuevoProyecto\obj\Debug\net6.0\coreEscuela.genruntimeconfig.cache
+D:\Desktop\ASPNET\nuevoProyecto\obj\Debug\net6.0\ref\coreEscuela.dll

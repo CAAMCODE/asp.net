@@ -1,0 +1,5 @@
+D:\Desktop\ASPNET\nuevoProyecto\obj\Debug\net6.0\nuevoProyecto.csproj.AssemblyReference.cache
+D:\Desktop\ASPNET\nuevoProyecto\obj\Debug\net6.0\nuevoProyecto.GeneratedMSBuildEditorConfig.editorconfig
+D:\Desktop\ASPNET\nuevoProyecto\obj\Debug\net6.0\nuevoProyecto.AssemblyInfoInputs.cache
+D:\Desktop\ASPNET\nuevoProyecto\obj\Debug\net6.0\nuevoProyecto.AssemblyInfo.cs
+D:\Desktop\ASPNET\nuevoProyecto\obj\Debug\net6.0\nuevoProyecto.csproj.CoreCompileInputs.cache
